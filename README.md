@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 , I'm Jaafar El-Morabit, (Ulfberht 🐺🐺)</h1>
+<h1 align="center">👾 Hi there 👋 , I'm Hamza El Haia, alias MSSDOSS 👾</h1>
 
 
 <div align="center">
@@ -7,7 +7,7 @@
 
   ---
   
-| ![ulfberht's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulfberht101&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulfberht101&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| ![MSSDOSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulfberht101&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSSDOSS&theme=dracula)](https://github.com/About-Me/github-readme-stats) |
   |:-:|:-:|
 
   ---
@@ -15,13 +15,13 @@
   <h1 align="center">Let's connect</h1>
   
 <p align="center">
-<a href="https://www.linkedin.com/in/zyacoubi">
+<a href="https://www.linkedin.com/in/hamza el haia">
  <img src="/img/linkedin.png" width="40" />
 </a>
-<a href="https://github.com/777DOSS">
+<a href="https://github.com/MSSDOSS">
  <img src="/images/github-.png" width="40" />
 </a>
-<a href="https://twitter.com/MSSDOSS">
+<a href="https://twitter.com/777DOSS">
  <img src="/images/twitter.png" width="40"/>
 </a>
 <a href="https://www.instagram.com/hamza.elhaia/">
