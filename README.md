@@ -19,7 +19,7 @@
  <img src="linkedin-logo.png" width="40" />
 </a>
 <a href="https://github.com/MSSDOSS">
- <img src="instagram-logo.png" width="40" />
+ <img src="github-logo.png" width="40" />
 </a>
 <a href="https://twitter.com/777DOSS">
  <img src="twitter-logo.png" width="40"/>
