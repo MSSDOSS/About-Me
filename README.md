@@ -19,7 +19,7 @@
  <img src="/img/linkedin.png" width="40" />
 </a>
 <a href="https://github.com/MSSDOSS">
- <img src="![image](https://user-images.githubusercontent.com/81889344/196248619-d0d8375c-84d9-43e7-a39a-40af37fec61e.png)" width="40" />
+ <img src="instagram-logo.png" width="40" />
 </a>
 <a href="https://twitter.com/777DOSS">
  <img src="![image](https://user-images.githubusercontent.com/81889344/196247947-f6249b85-7a50-40cf-84cb-6205d35b493a.png)" width="40"/>
