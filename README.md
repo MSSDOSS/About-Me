@@ -7,7 +7,7 @@
 
   ---
   
-| ![MSSDOSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSSDOSS&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSSDOSS&theme=dracula)](https://github.com/About-Me/github-readme-stats) |
+| ![MSSDOSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSSDOSS&show_icons=true&theme=jolly) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSSDOSS&theme=jolly)](https://github.com/About-Me/github-readme-stats) |
   |:-:|:-:|
 
   ---
